@@ -97,7 +97,7 @@ to add more attributes to our model in order to get something more reasonably us
 
 In practice, our ML model would be used to figure out what are the most important factors to the success of a particular industry and the type of data sets to include 
 for analysis as we update the models annually. We could add data sets from social media, surrounding businesses, climate etc in order to make a reasonably accurate 
-model.
+model to analyze.
 
 ### Visualization
 
