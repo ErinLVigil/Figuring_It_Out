@@ -101,8 +101,8 @@ model to analyze.
 
 ### Visualization
 
-We wanted to create a simple mock up for our entrepreneurs with a program that would create, easy-to-read, descriptive visualizations, so we used Tableau. ![dashboard]
-(https://user-images.githubusercontent.com/109319148/211898839-8cc47092-fbff-4d49-952a-4927ceaa0d62.png)
+We wanted to create a simple mock up for our entrepreneurs with a program that would create, easy-to-read, descriptive visualizations, so we used Tableau.
+![dashboard](https://user-images.githubusercontent.com/109319148/211898839-8cc47092-fbff-4d49-952a-4927ceaa0d62.png)
 
 
 We created a map that displays all of the gyms in the United Statesby zip code. Using an average count of "successful" gyms, we color coded the map. Zip codes that had 
